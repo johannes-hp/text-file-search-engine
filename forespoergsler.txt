@@ -1,0 +1,5 @@
+Forespørgsel 1: sår 
+Forespørgsel  2: hjertesygdom
+Forespørgsel 3: sukkersyge
+Forespørgsel  4: infektioner
+Forespørgsel  5: livsstilssygdomme
